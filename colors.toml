@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Grand Line: deep ocean surfaces, straw-gold focus, and crimson sail accents.
+accent = "#f4c95d"
+selection = "#1f4e6b"
+muted = "#6c879a"
+
+background = "#0a1b2b"
+dark_background = "#06121d"
+darker_background = "#030b12"
+lighter_background = "#12324a"
+
+foreground = "#d9e7ef"
+dark_foreground = "#6f8b9e"
+light_foreground = "#b6ceda"
+bright_foreground = "#fff4c2"
+
+red = "#d9584b"
+yellow = "#f4c95d"
+orange = "#e78945"
+green = "#69b99a"
+cyan = "#48b8c7"
+blue = "#4b8fc4"
+magenta = "#b47ac4"
+brown = "#875f4a"
+
+bright_red = "#ff796b"
+bright_yellow = "#ffe08a"
+bright_green = "#8bd7b7"
+bright_cyan = "#79dce7"
+bright_blue = "#79b8ea"
+bright_magenta = "#d19be0"
+
+# Keep the focused edge gold and the inactive edge subdued ocean blue.
+hyprland_active_border = "rgb(f4c95d)"
+hyprland_inactive_border = "rgb(1f3c4f)"

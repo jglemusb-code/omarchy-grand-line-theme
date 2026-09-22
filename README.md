@@ -5,11 +5,13 @@ states, crimson sails, and a hand-painted night voyage wallpaper.
 
 ## Install
 
-Copy this directory into `~/.config/omarchy/themes/grand-line`, then apply it:
+Install directly from GitHub and apply it:
 
 ```bash
-omarchy theme set grand-line
+omarchy theme install https://github.com/jglemusb-code/omarchy-grand-line-theme.git
 ```
+
+For a local checkout, copy this directory into `~/.config/omarchy/themes/grand-line` and run `omarchy theme set grand-line`.
 
 The included wallpaper is an original pirate-ocean illustration created for
 this theme. It contains no franchise characters or logos.
